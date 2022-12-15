@@ -10,7 +10,7 @@ export const App = () => {
         color: '#FF4656'
       }}
     >
-   game page
+   AGENTS
     </div>
   );
 };
