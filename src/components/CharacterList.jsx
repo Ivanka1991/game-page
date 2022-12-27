@@ -1,12 +1,13 @@
 import PropTypes from "prop-types"
 import { Character } from "./Character"
 
+
 export const CharacterList = ({ characters }) => {
   return (
     <ul>
       {characters.map(character => (
         <li key={character.id}>
-          <Character character={character}/>
+          <Character character={character} />
         </li>
       ))}
     </ul>
