@@ -1,17 +1,33 @@
 {
   "files": {
-    "main.css": "/game-page/static/css/main.7acaea2f.css",
-    "main.js": "/game-page/static/js/main.ac8ba59f.js",
+    "main.css": "/game-page/static/css/main.efbf398d.css",
+    "main.js": "/game-page/static/js/main.465386fc.js",
     "static/media/sova.png": "/game-page/static/media/sova.648f3a5080d5148fc3b9.png",
     "static/media/phoenix.png": "/game-page/static/media/phoenix.af3fad61d292b4ff727a.png",
     "static/media/sage.png": "/game-page/static/media/sage.6d77c776987d743cc990.png",
     "static/media/jett.png": "/game-page/static/media/jett.25054571a30511d8f1da.png",
+    "static/media/blade_storm.svg": "/game-page/static/media/blade_storm.4643bb9bbd4ba5512c423655fd691497.svg",
+    "static/media/resurrection.svg": "/game-page/static/media/resurrection.a1895c511affff8a1e734b57214738d7.svg",
+    "static/media/owl_drone.svg": "/game-page/static/media/owl_drone.35d0298ff868dd65b5e2a3090af46d04.svg",
+    "static/media/blaze.svg": "/game-page/static/media/blaze.2aef685f7001e53a4438ed3bfb2b556c.svg",
+    "static/media/slow_orb.svg": "/game-page/static/media/slow_orb.5d9b3a894a59e2c1ad5bd2957caa712e.svg",
+    "static/media/recon_bolt.svg": "/game-page/static/media/recon_bolt.0301c177c733bf54dc5738919531fbd6.svg",
+    "static/media/run_it_back.svg": "/game-page/static/media/run_it_back.f7b0530746f625035e35ba362e7054ae.svg",
+    "static/media/hot_hands.svg": "/game-page/static/media/hot_hands.6753345968dc145dd3eb69fa26208fd2.svg",
+    "static/media/updraft.svg": "/game-page/static/media/updraft.d66e98dc308bba71192a061ce7150374.svg",
+    "static/media/hunter_s_fury.svg": "/game-page/static/media/hunter_s_fury.5dabf5df99a979bac45f9b37912542d3.svg",
+    "static/media/curveball.svg": "/game-page/static/media/curveball.289aeb8f04e0fc72d9542d0e52a3ebad.svg",
+    "static/media/tailwind.svg": "/game-page/static/media/tailwind.f1985c127b92c2a8e046a0f1da6ae746.svg",
+    "static/media/cloudburst.svg": "/game-page/static/media/cloudburst.72130e686489b5a9db547190ccaeb96c.svg",
+    "static/media/healing_orb.svg": "/game-page/static/media/healing_orb.20a05482662187c373c75c7d77da5abd.svg",
     "index.html": "/game-page/index.html",
-    "main.7acaea2f.css.map": "/game-page/static/css/main.7acaea2f.css.map",
-    "main.ac8ba59f.js.map": "/game-page/static/js/main.ac8ba59f.js.map"
+    "static/media/baririer_orb.svg": "/game-page/static/media/baririer_orb.8d27136d95c58785dc3ecd9010497f6d.svg",
+    "static/media/shock_bolt.svg": "/game-page/static/media/shock_bolt.97f6f2248a005f18ee101e8069e864cb.svg",
+    "main.efbf398d.css.map": "/game-page/static/css/main.efbf398d.css.map",
+    "main.465386fc.js.map": "/game-page/static/js/main.465386fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.ac8ba59f.js"
+    "static/css/main.efbf398d.css",
+    "static/js/main.465386fc.js"
   ]
 }
